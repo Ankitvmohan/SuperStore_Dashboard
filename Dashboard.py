@@ -39,7 +39,7 @@ df = df[(df["Order Date"]>= date1)& (df["Order Date"]<= date2)].copy()
 #To create a sidebar
 st.sidebar.header("Choose your filter: ")
 #Create for Region
-region = st.sidebar.multiselect("Pick your Poison City", df["Region"].unique())
+region = st.sidebar.multiselect("Pick your Poison Region", df["Region"].unique())
 if not region:
     df2 = df.copy()
 else:
