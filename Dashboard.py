@@ -39,21 +39,21 @@ df = df[(df["Order Date"]>= date1)& (df["Order Date"]<= date2)].copy()
 #To create a sidebar
 st.sidebar.header("Choose your filter: ")
 #Create for Region
-region = st.sidebar.multiselect("Pick your Poison Region", df["Region"].unique())
+region = st.sidebar.multiselect("Pick your Region", df["Region"].unique())
 if not region:
     df2 = df.copy()
 else:
     df2 = df[df["Region"].isin(region)]
 
 #Create for State
-state = st.sidebar.multiselect("Pick your state Poison", df2["State"].unique())
+state = st.sidebar.multiselect("Pick your state", df2["State"].unique())
 if not state:
     df3 = df2.copy()
 else:
     df3 = df2[df2["State"].isin(state)]
     
 #Create for City
-city = st.sidebar.multiselect("Pick your City Poison",df3["City"].unique())
+city = st.sidebar.multiselect("Pick your City",df3["City"].unique())
 
 #Filter the data based on region, State and City
 if not region and not state and not city:
