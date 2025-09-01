@@ -19,9 +19,9 @@ Welcome to the **Superstore Dashboard**, a fully interactive data visualization 
 
 ## 📸 Preview
 
-![Superstore Dashboard Preview](https://github.com/Ankitvmohan/SuperStore_Dashboard/assets/your-image-id)
+![Superstore Dashboard Preview]([https://github.com/Ankitvmohan/SuperStore_Dashboard/assets/your-image-id](https://drive.google.com/drive/folders/1S6iHbaJ3jHogFFyPIwtPX8pEQh1n4nEV?usp=drive_link)
 
-*Want to contribute a preview image? Upload it to the repo and update this section with the correct link!*
+*Uploaded a few snapshots of the project in the drive link above.*
 
 ---
 
