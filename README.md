@@ -3,7 +3,7 @@
 Welcome to the **Superstore Dashboard**, a fully interactive data visualization app built using **Python**, **Streamlit**, and **Plotly**. This dashboard helps you explore and analyze Superstore sales data by region, state, city, category, and more.
 
 🔗 **Live Demo:**  
-[🚀 Click here to launch the app](https://superstoredashboard-ankitvmohan.streamlit.app/)
+[🚀 Click here to launch the app]https://superstoredashboard-ankitvmohan.streamlit.app/)
 
 ---
 
