@@ -19,7 +19,7 @@ Welcome to the **Superstore Dashboard**, a fully interactive data visualization 
 
 ## 📸 Preview
 
-![Superstore Dashboard Preview]([https://github.com/Ankitvmohan/SuperStore_Dashboard/assets/your-image-id](https://drive.google.com/drive/folders/1S6iHbaJ3jHogFFyPIwtPX8pEQh1n4nEV?usp=drive_link)
+[Superstore Dashboard Preview]([https://github.com/Ankitvmohan/SuperStore_Dashboard/assets/your-image-id](https://drive.google.com/drive/folders/1S6iHbaJ3jHogFFyPIwtPX8pEQh1n4nEV?usp=drive_link)
 
 *Uploaded a few snapshots of the project in the drive link above.*
 
@@ -34,6 +34,3 @@ Welcome to the **Superstore Dashboard**, a fully interactive data visualization 
 - **Excel** (initial data source)
 
 ---
-
-## 📁 Project Structure
-
